@@ -1,0 +1,54 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_MB_Pump
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_MB_Pump	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	reset	KEYWORD2
+	changeID	KEYWORD2
+	setSpeedMB	KEYWORD2
+	ackSpeedMB	KEYWORD2
+	setTypeMB	KEYWORD2
+	ackTypeMB	KEYWORD2
+	writeFlash	KEYWORD2
+	readFlash	KEYWORD2
+	getID	KEYWORD2
+	getVersion	KEYWORD2
+	getPWR	KEYWORD2
+	setIDLED	KEYWORD2
+	getErr	KEYWORD2
+	getSumPump	KEYWORD2
+	setFrequency	KEYWORD2
+	getFrequency	KEYWORD2
+	setPower	KEYWORD2
+	getPower	KEYWORD2
+	setState	KEYWORD2
+	getState	KEYWORD2
+	setTimeOn	KEYWORD2
+	getTimeOn	KEYWORD2
+	setPomp12V	KEYWORD2
+	getPomp12V	KEYWORD2
+	digitalRead	KEYWORD2
+	enableWDT	KEYWORD2
+	disableWDT	KEYWORD2
+	resetWDT	KEYWORD2
+	getStateWDT	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	DEF_MODEL_PUMP1	LITERAL1
+	DEF_MODEL_PUMP2	LITERAL1
+	DEF_MODEL_PUMP3	LITERAL1
+	PUMP_ALL	LITERAL1
+	PUMP_A	LITERAL1
+	PUMP_B	LITERAL1
+	PUMP_C	LITERAL1
+	PUMP_SENSOR_ALL	LITERAL1
+	PUMP_SENSOR_MIN_A	LITERAL1
+	PUMP_SENSOR_MID_A	LITERAL1
+	PUMP_SENSOR_MIN_B	LITERAL1
+	PUMP_SENSOR_MID_B	LITERAL1
+	PUMP_SENSOR_MIN_C	LITERAL1
+	PUMP_SENSOR_MID_C	LITERAL1
