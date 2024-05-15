@@ -1,5 +1,5 @@
 //	Библиотека для работы с насосами iarduino Modbus: https://iarduino.ru/shop/Expansion-payments/peristaltic-2-pumps-Modbus-RS485.html
-//  Версия: 1.0.3
+//  Версия: 1.0.4
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/593.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: https://wiki.iarduino.ru/page/peristaltic-pumps-Modbus-RS485/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
