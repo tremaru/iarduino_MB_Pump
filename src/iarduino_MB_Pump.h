@@ -1,5 +1,9 @@
-//	Библиотека для работы с насосами iarduino Modbus: https://iarduino.ru/shop/Expansion-payments/peristaltic-2-pumps-Modbus-RS485.html
-//  Версия: 1.0.4
+//	Библиотека для работы с блоками перистальтических насосов iarduino по шине Modbus:
+//	Блок на 2 перистальтических насоса RS485/Modbus (KPHM100):    https://iarduino.ru/shop/Expansion-payments/blok-na-2-peristalticheskih-nasosa-rs485---modbus-kphm100.html
+//	Блок на 2 перистальтических насоса RS485/Modbus (NKP-DC-S08): https://iarduino.ru/shop/Expansion-payments/peristaltic-2-pumps-Modbus-RS485.html
+//	Блок на 3 перистальтических насоса RS485/Modbus (KPHM100):    https://iarduino.ru/shop/Expansion-payments/blok-na-3-peristalticheskih-nasosa-rs485---modbus-kphm100.html
+//	Блок на 3 перистальтических насоса RS485/Modbus (NKP-DC-S08): https://iarduino.ru/shop/Expansion-payments/peristaltic-3-pumps-Modbus-RS485.html
+//  Версия: 1.0.5
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/593.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: https://wiki.iarduino.ru/page/peristaltic-pumps-Modbus-RS485/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
@@ -7,6 +11,7 @@
 //  в том числе и в некоммерческих целях, просим Вас опубликовать ссылку: http://iarduino.ru
 //  Автор библиотеки: Панькин Павел
 //  Если у Вас возникли технические вопросы, напишите нам: shop@iarduino.ru
+//	Дополнительно требуется установить библиотеку реализации протокола Modbus RTU/ASCII на шине UART->RS485: https://iarduino.ru/file/591.html
 
 #ifndef iarduino_MB_Pump_h
 #define iarduino_MB_Pump_h
